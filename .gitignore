@@ -1,2 +1,3 @@
 test/tmp.png
-vendor/
+/vendor/
+/composer.lock

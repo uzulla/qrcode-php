@@ -1,0 +1,24 @@
+{
+    "name": "uzulla/qrcode-php",
+    "description": "Generate QRCode Image for PHP.",
+    "keywords": ["qrcode", "image"],
+    "type": "library",
+    "homepage": "http://github.com/uzulla/CFEDb2",
+    "license": "revised BSD License",
+    "authors": [
+        {
+            "name": "Junichi Ishida aka uzulla",
+            "email": "uzulla@himitsukichi.com",
+            "homepage": "http://twitter.com/uzulla/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Uzulla\\QrCode": "lib/"
+        }
+    }
+}

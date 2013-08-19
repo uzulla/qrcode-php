@@ -3,7 +3,7 @@
     "description": "Generate QRCode Image for PHP.",
     "keywords": ["qrcode", "image"],
     "type": "library",
-    "homepage": "http://github.com/uzulla/CFEDb2",
+    "homepage": "http://github.com/uzulla/qrcode-php",
     "license": "revised BSD License",
     "authors": [
         {

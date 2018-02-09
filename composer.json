@@ -4,7 +4,7 @@
     "keywords": ["qrcode", "image"],
     "type": "library",
     "homepage": "http://github.com/uzulla/qrcode-php",
-    "license": "revised BSD License",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Junichi Ishida aka uzulla",
